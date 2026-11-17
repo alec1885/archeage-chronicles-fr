@@ -67,3 +67,15 @@ Cette traduction n'aurait pas été possible sans le travail des traducteurs rus
 Projet de fans, gratuit, sans lien avec les développeurs ni l'éditeur d'ArcheAge Chronicles.
 Le jeu ne prévoit pas officiellement de modifications : vous utilisez cette traduction à vos
 risques. Elle a été testée en jeu pendant plusieurs jours sans aucun problème.
+
+## Aux développeurs d'ArcheAge Chronicles
+
+Si vous passez par ici : toute cette traduction est à votre disposition, librement, si elle peut
+accélérer une traduction française officielle. Le fichier `String.locres` du zip s'utilise tel quel
+(mêmes clés que le jeu), et je peux vous fournir les fichiers de travail (tableaux clé / texte) sur
+demande. Aucun besoin de me créditer dans le jeu. Pour me contacter, ouvrez simplement un ticket ici.
+
+**To the ArcheAge Chronicles developers:** this whole translation is freely available to you if it
+can help speed up an official French localization. The `String.locres` in the zip can be used as is
+(same keys as the game), and I can share the working files (key / text tables) on request.
+No credit needed in the game. To reach me, just open an issue on this repository.
