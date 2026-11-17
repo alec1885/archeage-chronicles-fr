@@ -1,0 +1,69 @@
+# ArcheAge Chronicles en français
+
+Traduction française **non officielle** et **complète** d'ArcheAge Chronicles : quêtes, dialogues,
+cinématiques, interface, objets, compétences, tutoriel, notes à lire, décor… soit 54 887 lignes.
+
+Elle ne modifie aucun fichier du jeu : elle ajoute seulement un fichier à côté.
+Elle fonctionne sous **Windows, Linux et Steam Deck**.
+
+<!-- Ajouter ici 2 ou 3 captures d'écran du jeu en français (glisser les images dans l'éditeur GitHub). -->
+
+## Télécharger
+
+**[Dernière version](https://github.com/alec1885/archeage-chronicles-fr/releases/latest)** : le fichier `.zip` en bas de la page.
+
+Le nom du zip indique la build du jeu prévue (par exemple `build26697251`).
+
+## Installer
+
+1. Fermez le jeu.
+2. Dans Steam, faites un clic droit sur ArcheAge Chronicles, puis **Gérer › Parcourir les fichiers locaux**.
+   Sur Steam Deck, passez en mode Bureau pour cette étape.
+3. Ouvrez le dossier `X5`, puis le dossier `Content`.
+4. Copiez-y le dossier **`Localization`** du zip.
+   - Si on vous demande quoi faire d'un dossier qui existe déjà, choisissez **Fusionner** (ou « Écrire dans »).
+   - Si on vous demande de remplacer `String.locres`, acceptez : c'est l'ancienne version de la traduction.
+
+   Le fichier doit se retrouver ici :
+   `ArcheAge Chronicles\X5\Content\Localization\String\fr\String.locres`
+5. Dans Steam, faites un clic droit sur le jeu, puis **Propriétés › Général**.
+   Dans **Options de lancement**, écrivez :
+   ```
+   -culture=fr
+   ```
+   Si la case contient déjà quelque chose, ajoutez `-culture=fr` à la fin, après un espace
+   (et après `%command%` s'il y est).
+6. Lancez le jeu : il est en français.
+
+## Après une mise à jour du jeu
+
+Quand une mise à jour du jeu modifie des textes, les lignes concernées s'affichent en **coréen**
+jusqu'à la version suivante de la traduction. Tout le reste reste en français, et rien ne casse.
+Pour mettre la traduction à jour, téléchargez la dernière version et refaites l'étape 4.
+
+## Désinstaller
+
+1. Supprimez le dossier `X5\Content\Localization\String\fr`.
+2. Retirez `-culture=fr` des options de lancement.
+
+## Un texte bizarre ou en coréen ?
+
+Ouvrez un [ticket](https://github.com/alec1885/archeage-chronicles-fr/issues) avec une capture
+d'écran, ou laissez un commentaire sur le guide Steam de la traduction.
+
+## Merci
+
+Cette traduction n'aurait pas été possible sans le travail des traducteurs russes :
+
+- [ColdVision](https://github.com/ColdVision/ArcheAge-Chronicles-russian-translate) :
+  traduction russe, outils et données des objets ;
+- [th0masi](https://github.com/th0masi/archeage-chronicles-ru) : traduction russe, qui a permis
+  de retrouver les textes anglais officiels ;
+- clarkkent : traduction russe, dont l'installateur fournit le texte coréen officiel de chaque
+  mise à jour du jeu.
+
+## Avertissement
+
+Projet de fans, gratuit, sans lien avec les développeurs ni l'éditeur d'ArcheAge Chronicles.
+Le jeu ne prévoit pas officiellement de modifications : vous utilisez cette traduction à vos
+risques. Elle a été testée en jeu pendant plusieurs jours sans aucun problème.
