@@ -12,7 +12,7 @@ Elle fonctionne sous **Windows, Linux et Steam Deck**.
 
 **[Dernière version](https://github.com/alec1885/archeage-chronicles-fr/releases/latest)** : le fichier `.zip` en bas de la page.
 
-Le nom du zip indique la build du jeu prévue (par exemple `build26697251`).
+Le nom du zip indique la build du jeu prévue (par exemple `build26756480`).
 
 ## Installer
 
