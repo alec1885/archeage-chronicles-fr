@@ -35,6 +35,8 @@ Le nom du zip indique la build du jeu prévue (par exemple `build26697251`).
    (et après `%command%` s'il y est).
 6. Lancez le jeu : il est en français.
 
+Si le jeu démarre quand même en anglais, ouvrez dans le jeu **Options › General** et choisissez la langue **fr**.
+
 ## Après une mise à jour du jeu
 
 Quand une mise à jour du jeu modifie des textes, les lignes concernées s'affichent en **coréen**
