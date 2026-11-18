@@ -48,8 +48,13 @@ Pour mettre la traduction à jour, téléchargez la dernière version et refaite
 
 ## Un texte bizarre ou en coréen ?
 
-Ouvrez un [ticket](https://github.com/alec1885/archeage-chronicles-fr/issues) avec une capture
-d'écran, ou laissez un commentaire sur le guide Steam de la traduction.
+Vu le nombre de textes à traduire (plus de 21 000 lignes de dialogue à elles seules), la traduction
+a été écrite en grande partie par une IA, Claude (d'Anthropic), puis testée en jeu. Il reste donc
+sûrement des maladresses.
+
+**Toute aide est la bienvenue** : vocabulaire, lore, noms officiels (canon) des personnages et des
+lieux, ou tout texte bizarre à signaler. Ouvrez un [ticket](https://github.com/alec1885/archeage-chronicles-fr/issues)
+avec une capture d'écran, ou laissez un commentaire sur le guide Steam de la traduction.
 
 ## Merci
 
