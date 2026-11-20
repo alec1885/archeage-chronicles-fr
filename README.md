@@ -35,7 +35,7 @@ Le nom du zip indique la build du jeu prévue (par exemple `build26803662`).
    (et après `%command%` s'il y est).
 6. Lancez le jeu : il est en français.
 
-Si le jeu démarre quand même en anglais, ouvrez dans le jeu **Options › General** et choisissez la langue **fr**.
+Si le jeu démarre quand même en anglais, ouvrez dans le jeu **Options › General** et choisissez la langue **français**.
 
 ## Après une mise à jour du jeu
 
@@ -66,8 +66,8 @@ Cette traduction n'aurait pas été possible sans le travail des traducteurs rus
   traduction russe, outils et données des objets ;
 - [th0masi](https://github.com/th0masi/archeage-chronicles-ru) : traduction russe, qui a permis
   de retrouver les textes anglais officiels ;
-- clarkkent : traduction russe, dont l'installateur fournit le texte coréen officiel de chaque
-  mise à jour du jeu.
+- clarkkent : traduction russe, dont l'installateur nous a fourni le texte coréen officiel des
+  premières mises à jour du jeu.
 
 ## Avertissement
 
