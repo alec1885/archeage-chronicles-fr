@@ -1,7 +1,7 @@
 # ArcheAge Chronicles en français
 
 Traduction française **non officielle** et **complète** d'ArcheAge Chronicles : quêtes, dialogues,
-cinématiques, interface, objets, compétences, tutoriel, notes à lire, décor… soit 54 887 lignes.
+cinématiques, interface, objets, compétences, tutoriel, notes à lire, décor… soit 55 050 lignes.
 
 Elle ne modifie aucun fichier du jeu : elle ajoute seulement un fichier à côté.
 Elle fonctionne sous **Windows, Linux et Steam Deck**.
@@ -12,7 +12,7 @@ Elle fonctionne sous **Windows, Linux et Steam Deck**.
 
 **[Dernière version](https://github.com/alec1885/archeage-chronicles-fr/releases/latest)** : le fichier `.zip` en bas de la page.
 
-Le nom du zip indique la build du jeu prévue (par exemple `build26756480`).
+Le nom du zip indique la build du jeu prévue (par exemple `build26803662`).
 
 ## Installer
 
