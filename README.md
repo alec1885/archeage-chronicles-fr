@@ -6,6 +6,8 @@ cinématiques, interface, objets, compétences, tutoriel, notes à lire, décor�
 Elle ne modifie aucun fichier du jeu : elle ajoute seulement un fichier à côté.
 Elle fonctionne sous **Windows, Linux et Steam Deck**.
 
+Guide d'installation illustré sur Steam : **[Jouer à ArcheAge Chronicles en français](https://steamcommunity.com/sharedfiles/filedetails/?id=3842833494)**
+
 <!-- Ajouter ici 2 ou 3 captures d'écran du jeu en français (glisser les images dans l'éditeur GitHub). -->
 
 ## Télécharger
@@ -56,7 +58,7 @@ sûrement des maladresses.
 
 **Toute aide est la bienvenue** : vocabulaire, lore, noms officiels (canon) des personnages et des
 lieux, ou tout texte bizarre à signaler. Ouvrez un [ticket](https://github.com/alec1885/archeage-chronicles-fr/issues)
-avec une capture d'écran, ou laissez un commentaire sur le guide Steam de la traduction.
+avec une capture d'écran, ou laissez un commentaire sur le [guide Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3842833494) de la traduction.
 
 ## Merci
 
